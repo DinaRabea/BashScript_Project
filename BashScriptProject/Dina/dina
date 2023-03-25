@@ -1,0 +1,4 @@
+ID:age:gender:phone
+int(Not_NULL):int (Not_NULL):string (Not_NULL):string
+1:11:femal:
+2:11:male:
